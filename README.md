@@ -34,5 +34,13 @@ jupyter nbextensions_configurator enable --user
 - Table Of Contents 설정
 쥬피터 노트북 실행후, 'Table Of Contents' 설정
 
+#### 쥬피터 랩
+- [쥬피터 랩 참조](https://heekangpark.github.io/etc/jupyter-lab)
+- 설치 및 실행
+```
+pip install jupyterlab --upgrade
 
+jupyter lab
+```
+- 폰트 설정, consolas, monaco, d2coding
 
