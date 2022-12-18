@@ -26,5 +26,13 @@ jupyter kernelspec uninstall (myml)
 - 아나콘다 터미널에 아래의 코드를 입력하여 nbextension 설치
 
 ```
-pip install jupyter_contrib_nbextensions && jupyter contrib nbextension install
+pip install jupyter_nbextensions_configurator jupyter_contrib_nbextensions
+jupyter contrib nbextension install --user
+jupyter nbextensions_configurator enable --user
 ```
+
+- Table Of Contents 설정
+쥬피터 노트북 실행후, 'Table Of Contents' 설정
+
+
+
