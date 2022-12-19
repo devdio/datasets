@@ -32,7 +32,6 @@ product = { 'Shop_id' : ['SP01', 'SP02', 'SP02', 'SP03', 'SP03', 'SP03', 'SP05']
 ```
 
 ## 데이터 설명
----
 ```
 - BASE : https://drive.google.com/uc?id=
 - Cats_and_Dogs_Filtered.zip : https://drive.google.com/uc?id=1u6OARnMhuLq--AmmklBLJrX9J_sw_bts
