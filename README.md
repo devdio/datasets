@@ -36,4 +36,6 @@ product = { 'Shop_id' : ['SP01', 'SP02', 'SP02', 'SP03', 'SP03', 'SP03', 'SP05']
 ```
 - BASE : https://drive.google.com/uc?id=
 - Cats_and_Dogs_Filtered.zip : https://drive.google.com/uc?id=1u6OARnMhuLq--AmmklBLJrX9J_sw_bts
+- HumanActivity Recognition : https://drive.google.com/uc?id=1ypa5iZ1dLDO-zGRO_yDXrJnMvjRGUG4v
+
 ```
