@@ -1,3 +1,18 @@
+## 캐글
+
+- Titanic
+https://www.kaggle.com/code/startupsci/titanic-data-science-solutions
+
+- Health Insurance Cost Predicition
+https://www.kaggle.com/datasets/mirichoi0218/insurance
+
+- House Price Prediction
+https://www.kaggle.com/code/ibrohimsharipov/house-price-prediction
+
+- 100,000 UK Used Car Data set
+https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes
+
+
 ## 판다스 참조
 - 리스트 
 ```
