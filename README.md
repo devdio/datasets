@@ -1,8 +1,24 @@
 ## Fahsion-mnist
+- 클래스명
 ```python
 class_names = ['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat', 
 'Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot']
 ```
+- 이미지 표시 
+```
+samples = np.random.randint(len(X_train), size=9) 
+samples
+
+plt.figure(figsize = (8, 6))
+for i, idx in enumerate(samples):
+    plt.subplot(3, 3, i+1)
+    plt.xticks([])
+    plt.yticks([])
+    plt.imshow(X_train[idx], cmap = 'gray')
+    plt.title(class_names[y_train[idx]])
+plt.show()
+```
+
 
 ## 캐글
 
