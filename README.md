@@ -18,6 +18,12 @@ for i, idx in enumerate(samples):
     plt.title(class_names[y_train[idx]])
 plt.show()
 ```
+## cifar-10
+- 클래스명
+```
+class_names = ['airplane', 'automobile', 'bird', 'cat', 'deer', 
+               'dog', 'frog', 'horse', 'ship', 'truck']
+```
 
 
 ## 캐글
