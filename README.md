@@ -78,7 +78,12 @@ product = { 'Shop_id' : ['SP01', 'SP02', 'SP02', 'SP03', 'SP03', 'SP03', 'SP05']
 ## 데이터 설명
 ```
 - BASE : https://drive.google.com/uc?id=
-- Cats_and_Dogs_Filtered.zip : https://storage.googleapis.com/mledu-datasets/cats_and_dogs_filtered.zip
-- HumanActivity Recognition : https://drive.google.com/uc?id=1ypa5iZ1dLDO-zGRO_yDXrJnMvjRGUG4v
+- Cats_and_Dogs_Filtered.zip : 
+    * https://storage.googleapis.com/mledu-datasets/cats_and_dogs_filtered.zip
+- HumanActivity Recognition : 
+    * https://drive.google.com/uc?id=1ypa5iZ1dLDO-zGRO_yDXrJnMvjRGUG4v
+- rps : 
+    * https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps.zip
+    * https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps-test-set.zip
 
 ```
