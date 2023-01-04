@@ -12,6 +12,8 @@
     * https://drive.google.com/uc?id=1-RBvPOYycsSpS7rVP0Pqwcbh18lZYDeb
 ```
 
+- labelImg
+   * https://github.com/heartexlabs/labelImg/releases
 
 ## Fahsion-mnist
 - 클래스명
