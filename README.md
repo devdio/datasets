@@ -85,5 +85,6 @@ product = { 'Shop_id' : ['SP01', 'SP02', 'SP02', 'SP03', 'SP03', 'SP03', 'SP05']
 - rps : 
     * https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps.zip
     * https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps-test-set.zip
-
+- BBRegression:
+    * https://drive.google.com/uc?id=1-RBvPOYycsSpS7rVP0Pqwcbh18lZYDeb
 ```
