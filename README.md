@@ -1,3 +1,18 @@
+## 데이터 설명
+```
+- BASE : https://drive.google.com/uc?id=
+- Cats_and_Dogs_Filtered.zip : 
+    * https://storage.googleapis.com/mledu-datasets/cats_and_dogs_filtered.zip
+- HumanActivity Recognition : 
+    * https://drive.google.com/uc?id=1ypa5iZ1dLDO-zGRO_yDXrJnMvjRGUG4v
+- rps : 
+    * https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps.zip
+    * https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps-test-set.zip
+- BBRegression:
+    * https://drive.google.com/uc?id=1-RBvPOYycsSpS7rVP0Pqwcbh18lZYDeb
+```
+
+
 ## Fahsion-mnist
 - 클래스명
 ```python
@@ -75,16 +90,4 @@ product = { 'Shop_id' : ['SP01', 'SP02', 'SP02', 'SP03', 'SP03', 'SP03', 'SP05']
            'price' : [220, 500, 145, 225, 510, 150, 505] }
 ```
 
-## 데이터 설명
-```
-- BASE : https://drive.google.com/uc?id=
-- Cats_and_Dogs_Filtered.zip : 
-    * https://storage.googleapis.com/mledu-datasets/cats_and_dogs_filtered.zip
-- HumanActivity Recognition : 
-    * https://drive.google.com/uc?id=1ypa5iZ1dLDO-zGRO_yDXrJnMvjRGUG4v
-- rps : 
-    * https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps.zip
-    * https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps-test-set.zip
-- BBRegression:
-    * https://drive.google.com/uc?id=1-RBvPOYycsSpS7rVP0Pqwcbh18lZYDeb
-```
+
