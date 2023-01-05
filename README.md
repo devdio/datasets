@@ -1,5 +1,9 @@
 ## 데이터 설명
 ```
+!pip install --upgrade --no-cache-dir gdown
+```  
+  
+```
 - BASE : https://drive.google.com/uc?id=
 - Cats_and_Dogs_Filtered.zip : 
     * https://storage.googleapis.com/mledu-datasets/cats_and_dogs_filtered.zip
