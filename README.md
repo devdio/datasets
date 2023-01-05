@@ -4,7 +4,8 @@
 ```  
   
 ```
-- BASE : https://drive.google.com/uc?id=
+- BASE : https://drive.google.com/uc?id=  
+  
 - Cats_and_Dogs_Filtered.zip : 
     * https://storage.googleapis.com/mledu-datasets/cats_and_dogs_filtered.zip
     
@@ -12,10 +13,12 @@
    * https://drive.google.com/uc?id=12FIGFL_-WnKTTOo8AC_eh3O1VNzvDeQP
 
 - HumanActivity Recognition : 
-    * https://drive.google.com/uc?id=1ypa5iZ1dLDO-zGRO_yDXrJnMvjRGUG4v
+    * https://drive.google.com/uc?id=1ypa5iZ1dLDO-zGRO_yDXrJnMvjRGUG4v  
+    
 - rps : 
     * https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps.zip
-    * https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps-test-set.zip
+    * https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps-test-set.zip  
+    
 - BBRegression:
     * https://drive.google.com/uc?id=1-RBvPOYycsSpS7rVP0Pqwcbh18lZYDeb
 ```
