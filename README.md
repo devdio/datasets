@@ -27,7 +27,10 @@
 
 - BBRegression (roboflow):
     * https://drive.google.com/uc?id=1-RBvPOYycsSpS7rVP0Pqwcbh18lZYDeb
-    
+
+- Image Localization Dataset
+  * https://www.kaggle.com/datasets/mbkinaci/image-localization-dataset
+
 - Facial Keypoints Detection (kaggle)
   * https://drive.google.com/uc?id=1Ee3qKH7aUpB3eUQP-nUiJyJECoTzVAU1
   
