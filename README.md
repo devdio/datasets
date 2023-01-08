@@ -31,6 +31,9 @@
 - Image Localization Dataset
   * https://www.kaggle.com/datasets/mbkinaci/image-localization-dataset
 
+- Audio Mnist
+  * https://github.com/Jakobovski/free-spoken-digit-dataset
+
 - Facial Keypoints Detection (kaggle)
   * https://drive.google.com/uc?id=1Ee3qKH7aUpB3eUQP-nUiJyJECoTzVAU1
   
