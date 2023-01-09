@@ -7,7 +7,11 @@
 - BASE : https://drive.google.com/uc?id=  
   
 - flowers
-  * https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz
+  * https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz  
+
+- baby_sounds
+  * https://drive.google.com/u/0/uc?id=1j3bpHIzX-SECXJgsOkssypXEuAeyRJ26
+
 - Cats_and_Dogs_Filtered.zip : 
     * https://storage.googleapis.com/mledu-datasets/cats_and_dogs_filtered.zip
     
