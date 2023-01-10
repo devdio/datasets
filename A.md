@@ -13,4 +13,5 @@
 - 채점
     - 채점자가 가지고 있는 테스트 이미지를 이용해서 측정
 
----
+- 모델 제출 :
+  공유 폴더 : https://drive.google.com/drive/folders/11wq57w-fi-mEzK4iC1DDS24IXbqe-q6t?usp=sharing
