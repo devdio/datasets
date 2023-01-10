@@ -2,6 +2,9 @@
 ```
 https://drive.google.com/drive/folders/11wq57w-fi-mEzK4iC1DDS24IXbqe-q6t?usp=sharing
 
+- human horse
+   - https://www.tensorflow.org/datasets/catalog/horses_or_humans
+
 - rps : 
     * https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps.zip
 ```
