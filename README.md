@@ -1,3 +1,8 @@
+## 공유폴더
+```
+https://drive.google.com/drive/folders/11wq57w-fi-mEzK4iC1DDS24IXbqe-q6t?usp=sharing
+```
+
 ## 데이터 설명
 ```
 !pip install --upgrade --no-cache-dir gdown
