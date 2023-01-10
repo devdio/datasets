@@ -4,12 +4,6 @@ https://drive.google.com/drive/folders/11wq57w-fi-mEzK4iC1DDS24IXbqe-q6t?usp=sha
 
 -  kaggle rps
    * https://drive.google.com/uc?id=1dXD4MIzHgJ31xVGfDdBx0cgwZs1_W589  
-
-- human horse
-   - https://www.tensorflow.org/datasets/catalog/horses_or_humans
-
-- rps : 
-    * https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps.zip
 ```
 
 ## 데이터 설명
@@ -19,7 +13,14 @@ https://drive.google.com/drive/folders/11wq57w-fi-mEzK4iC1DDS24IXbqe-q6t?usp=sha
   
 ```
 - BASE : https://drive.google.com/uc?id=  
-  
+
+
+- human horse
+   - https://www.tensorflow.org/datasets/catalog/horses_or_humans
+
+- rps : 
+    * https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps.zip
+    
 - flowers
   * https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz  
 
