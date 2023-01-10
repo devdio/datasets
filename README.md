@@ -28,7 +28,7 @@ https://drive.google.com/drive/folders/11wq57w-fi-mEzK4iC1DDS24IXbqe-q6t?usp=sha
     
 - rps : 
     * https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps.zip
-    * https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps-test-set.zip  
+     
 
 - BoundingBox Sample
   * https://drive.google.com/uc?id=1jNlnTFMzxaxZ799JcvVnN_aHsx1O3OeL
