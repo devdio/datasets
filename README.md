@@ -4,18 +4,11 @@
 ## Maplotlib 의 한글화문제 해결 
 - [https://github.com/ychoi-kr/koreanize-matplotlib](https://github.com/ychoi-kr/koreanize-matplotlib)
 
-## gdown의 문제
+## gdown의 권한 문제
 ```
 !pip install --upgrade --no-cache-dir gdown
 ```  
 
-
-```
-https://drive.google.com/drive/folders/11wq57w-fi-mEzK4iC1DDS24IXbqe-q6t?usp=sharing
-
--  kaggle rps
-   * https://drive.google.com/uc?id=1dXD4MIzHgJ31xVGfDdBx0cgwZs1_W589  
-```
 
 ## 데이터 설명
 ```
@@ -71,6 +64,11 @@ https://drive.google.com/drive/folders/11wq57w-fi-mEzK4iC1DDS24IXbqe-q6t?usp=sha
   
 - GTSRB
   * https://drive.google.com/uc?id=17rL7t_ltHtSvKtbRQcmx9jGlFDTlF4ao
+  
+-  kaggle rps
+  * https://drive.google.com/drive/folders/11wq57w-fi-mEzK4iC1DDS24IXbqe-q6t?usp=sharing
+  * https://drive.google.com/uc?id=1dXD4MIzHgJ31xVGfDdBx0cgwZs1_W589  
+   
 ```
 
 ## GTSRB
