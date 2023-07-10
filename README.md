@@ -2,7 +2,7 @@
 - [koreanize-matplotlib](https://github.com/ychoi-kr/koreanize-matplotlib)
 
 # 테스트용 데이터셋
----
+
 ## churn_bank.csv
 ```
 *  CustomerId: 데이터 세트 내에서 개별 고객을 추적하고 차별화하는 데 사용할 수 있습니다.
